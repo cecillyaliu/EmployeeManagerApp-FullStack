@@ -1,0 +1,35 @@
+{
+    "email": "daniel@northeastern.edu",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "JavaScript",
+    "name": "Daniel Craig",
+    "phone": "3421995233"
+}
+{
+     "email": "Lexy@gmail.com",
+     "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+     "jobTitle": "UX/UI",
+     "name": "Lexy",
+     "phone": "9986663811"
+}
+{
+     "email": "sarasmith@berkeley.edu",
+     "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+     "jobTitle": "Java",
+     "name": "Sara Smith",
+     "phone": "5667662311"
+}
+{
+      "email": "cecicc0401@gmail.com",
+      "imageUrl": "https://bootdey.com/img/Content/avatar/avatar8.png",
+      "jobTitle": "Python",
+      "name": "Cecilia Liu",
+      "phone": "3417668722"
+}
+{
+      "email": "John@gmail.com",
+      "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+      "jobTitle": "Python",
+      "name": "John Smith",
+      "phone": "4558881039"
+}
